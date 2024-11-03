@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "price": 99.99
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Stand",
+    "description": "Adjustable stand for smartphones and tablets.",
+    "price": 15.99
+  },
+  {
+    "id": 3,
+    "name": "Portable Charger",
+    "description": "Fast-charging power bank with 10000mAh capacity.",
+    "price": 25.99
+  }
+]
